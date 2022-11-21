@@ -1,6 +1,6 @@
 # Mistri Solution Official Site
 
-Live Site: https://msl-jade.vercel.app/contact_us
+Live Site: https://msl-jade.vercel.app/
 
 ## Technology Used: 
  React Js, React router dom, Tailwind css, react-router-hash-link, React-Slick, Headless ui, Hero-icon
